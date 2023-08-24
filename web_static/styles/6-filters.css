@@ -6,8 +6,7 @@
     border-radius: 4px;
     display: flex;
     align-items: center;
-   /* flex-direction: row; */
-    /*justify-content: flex-end; */
+   
 
 }
 .btn {
@@ -21,7 +20,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-   /* margin-right: 30px; */
+  
 }
 .btn:hover {
     opacity: 0.9;
